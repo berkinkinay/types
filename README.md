@@ -1,2 +1,1 @@
-# types
-web dev with TypeScript
+# this is only test build with typescript
